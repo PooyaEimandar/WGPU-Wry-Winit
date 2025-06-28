@@ -1,3 +1,3 @@
 # WGPU + WRY + Winit sample
 
-### tested on PC and Android
+Tested on PC and Android
